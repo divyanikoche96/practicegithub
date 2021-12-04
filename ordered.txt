@@ -12,3 +12,9 @@ student name
 dk
 sd
 ss
+
+payment added
+
+40000
+56222
+89942
