@@ -7,3 +7,8 @@ list
 book list
 pencil box list
 register bunch list
+
+student name
+dk
+sd
+ss
